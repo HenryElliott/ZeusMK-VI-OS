@@ -4,7 +4,7 @@
 
 **ZeusMK-VI OS** is a cyberpunk-inspired, multilingual, modular desktop dashboard built for power users, developers, and creators who crave **offline-first control** of their day.
 
-Named after a fallen guardian, forged in dark mode, and infused with daily-use tools. This is **not** just another dashboard. It’s your personal OS layer, designed for expansion.
+Named after a fallen guardian, forged in darkness, and infused with daily-use tools. This is **not** just another dashboard. It’s your personal OS layer, designed for expansion.
 
 ---
 
