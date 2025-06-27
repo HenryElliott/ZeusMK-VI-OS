@@ -37,3 +37,34 @@ Named after a fallen guardian, forged in darkness, and infused with daily-use to
 | 💡 Theming System       | Glitchy neon glow with blur & shadows         |
 
 ---
+## ⚔️ Name Meaning
+
+**"ZeusMK-VI"**  
+A codename OS forged in memory of a lost companion.  
+The “MK-VI” (Mark Six) marks the sixth hardened internal iteration, **rebuilt, weaponized, and reborn**.
+
+---
+## 👤 Author
+
+**HenryElliott**
+Cybersecurity enthusiast, language learner, and open-source builder.  
+💀 *“I don’t just use the terminal. I live in it.”*
+
+---
+
+## 📜 License
+
+**MIT License** Free to use, remix, or rebuild.  
+Please credit if you fork.
+
+---
+
+## ⭐ Support the Project
+
+If this project helps or inspires you, please consider:
+
+- 🌟 Giving a **star** on GitHub  
+- 🔁 Sharing it with friends or communities  
+- 🧠 Contributing modules, languages, or themes  
+
+> Every star keeps **ZeusMK-VI** alive.
