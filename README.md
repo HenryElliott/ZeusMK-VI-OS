@@ -68,6 +68,7 @@ Named after a fallen guardian, forged in darkness, and infused with daily-use to
 - 📂 Drag & Drop File Notes  
 - ✍️ Offline Markdown Editor  
 - 🖥️ Terminal-style Command Console
+- 🛡️ **CyberOps Hub** Unified launcher for cybersecurity tools: scanners, analyzers, recon kits, and more
 
 ---
 
