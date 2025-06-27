@@ -37,6 +37,40 @@ Named after a fallen guardian, forged in darkness, and infused with daily-use to
 | 💡 Theming System       | Glitchy neon glow with blur & shadows         |
 
 ---
+
+## 🧪 Tech Stack
+
+| Layer          | Tech Details                                      |
+|----------------|---------------------------------------------------|
+| **UI**         | HTML5 + CSS3 (Neon Glow + Terminal Aesthetic)     |
+| **Logic**      | Vanilla JavaScript                                |
+| **i18n Engine**| JSON-based localization                           |
+| **Desktop Ready** | Tauri (Rust wrapper)                           |
+| **Expandable** | Python, Rust, C++, Bash, WebAssembly (WASM)       |
+
+---
+
+## 🧭 Roadmap
+
+### ✅ Completed (v1.0)
+
+- 🧭 MVP Dashboard (UI + Modules)  
+- 🌍 Language Switcher  
+- 💡 Theming + Glitch Identity  
+- 📱 Responsive Layout
+
+### 🔜 Upcoming Features
+
+- ⏳ Rust-powered Pomodoro Timer (WASM)  
+- 🤖 Python LLM-powered Offline Chatbot  
+- 🗃️ C++ Local Encryption Vault  
+- 🧠 Flashcard Engine (Spaced Repetition)  
+- 📂 Drag & Drop File Notes  
+- ✍️ Offline Markdown Editor  
+- 🖥️ Terminal-style Command Console
+
+---
+
 ## ⚔️ Name Meaning
 
 **"ZeusMK-VI"**  
@@ -44,9 +78,10 @@ A codename OS forged in memory of a lost companion.
 The “MK-VI” (Mark Six) marks the sixth hardened internal iteration, **rebuilt, weaponized, and reborn**.
 
 ---
+
 ## 👤 Author
 
-**HenryElliott**
+**HenryElliott**  
 Cybersecurity enthusiast, language learner, and open-source builder.  
 💀 *“I don’t just use the terminal. I live in it.”*
 
